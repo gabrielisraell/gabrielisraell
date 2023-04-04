@@ -13,8 +13,5 @@
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div><br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/callmebewhy) 
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellisrael)
-
 
 I am a skilled developer proficient in TypeScript, React, and Flutter. With experience building web and mobile applications, I bring a strong understanding of front-end development and a passion for creating engaging user experiences. My expertise in these technologies enables me to develop efficient, scalable, and maintainable applications that meet user needs.
