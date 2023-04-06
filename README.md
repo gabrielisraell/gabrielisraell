@@ -14,4 +14,4 @@
 </div><br/>
 
 
-I am a skilled developer proficient in TypeScript, React, and Flutter. With experience building web and mobile applications, I bring a strong understanding of front-end development and a passion for creating engaging user experiences. My expertise in these technologies enables me to develop efficient, scalable, and maintainable applications that meet user needs.
+I am a skilled developer proficient in TypeScript, React, and Redux. With experience building web and mobile applications, I bring a strong understanding of front-end development and a passion for creating engaging user experiences. My expertise in these technologies enables me to develop efficient, scalable, and maintainable applications that meet user needs.
