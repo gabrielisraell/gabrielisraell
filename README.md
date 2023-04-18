@@ -1,7 +1,7 @@
 ## Hi! im Gabriel Israel 🖐️
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielisraell&hide_progress=false&theme=dracula)](https://github.com/gabrielisraell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielisraell&hide_progress=true)](https://github.com/gabrielisraell/github-readme-stats)
 
 
 ## My favorite technologies
