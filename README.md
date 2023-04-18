@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielisraell&hide_progress=true&theme=dracula)](https://github.com/gabrielisraell/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielisraell&theme=dracula&exclude_repo=github-readme-stats,gabrielisraell.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My favorite technologies
