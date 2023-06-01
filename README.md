@@ -7,12 +7,13 @@
 
 <div style="display: inline_block">
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- 
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-</div><br/>
 
-
-I am a skilled developer proficient in TypeScript, React, and Redux. With experience building web and mobile applications, I bring a strong understanding of front-end development and a passion for creating engaging user experiences. My expertise in these technologies enables me to develop efficient, scalable, and maintainable applications that meet user needs.
+Strong knowledge of TypeScript and React, with experience in writing clean,
+scalable, and high-performance code for web applications.
+Proficient in Java, with skills in web application development using frameworks
+such as Spring and Hibernate.
+Experience in working with relational databases such as MySQL and Oracle, and
+using SQL for querying and manipulating data.. My expertise in these technologies enables me to develop efficient, scalable, and maintainable applications that meet user needs.
